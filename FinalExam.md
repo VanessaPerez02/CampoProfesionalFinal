@@ -69,4 +69,5 @@ Me gustaría que se incluyan actividades más prácticas con herramientas reales
 ### 16. Escribe una breve reflexión final sobre tu experiencia este semestre en la materia.
 Este semestre la materia me ayudó a entender con más claridad el mundo profesional al que me estoy dirigiendo. Me permitió reflexionar sobre mis metas, mis habilidades y las responsabilidades que tendré como futura ingeniera. Creo que fue un curso que realmente aporta valor porque conecta lo que aprendemos en clase con la realidad laboral, y me motivó a seguir preparándome para lo que viene.
 
+# Se acabo el semestre. FELIZ NAVIDAD 
 
